@@ -28,34 +28,24 @@ const About = () => {
       >
         <Typography variant="h4">Welcome To My Resturant</Typography>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat quod,
-          suscipit, aperiam totam autem culpa cum eveniet dolorum quasi est
-          perspiciatis laborum. Nam recusandae nihil quia odio voluptatibus
-          facere omnis facilis rerum? Ab eum beatae nobis reiciendis, qui
-          temporibus aliquid, nesciunt velit sed quam recusandae necessitatibus,
-          tempora maxime. Repellendus incidunt, maxime labore dolorum eos
-          aperiam unde? At veritatis nesciunt eos quas cupiditate blanditiis est
-          quam maiores, amet, soluta exercitationem voluptatum, veniam
-          assumenda? Ratione perferendis officiis deserunt nostrum aspernatur
-          sed asperiores! Earum sunt placeat ducimus sint, deleniti amet esse
-          saepe voluptatem commodi laudantium quibusdam repellat nobis libero at
-          consectetur adipisci ipsa.
+          Dosa: Our dosas are a crispy, golden delight made from a fermented rice and lentil batter. Enjoy them plain or stuffed with your choice of fillings, like spiced potatoes or vegetables, for a satisfying meal.<br />
         </p>
-        <br />
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-          deserunt libero reprehenderit cum sint fugit cumque temporibus modi
-          facere eveniet amet obcaecati ducimus harum velit maxime vel qui
-          voluptatibus quam odio corrupti saepe, voluptas dolorum quidem
-          tempore? Esse sapiente molestias minus enim quisquam dolorum eum culpa
-          ullam impedit velit quo, corporis ducimus numquam dignissimos
-          inventore maiores. Nam deleniti itaque nostrum neque dolorum dolores,
-          aliquam, voluptatum sapiente doloribus laborum perspiciatis ipsam, quo
-          ut nisi distinctio sunt nihil est blanditiis perferendis eveniet
-          nesciunt! Nostrum, voluptatum eveniet repellat vel officia deleniti
-          tempore voluptatibus perferendis esse eaque temporibus porro?
-          Aspernatur beatae deleniti illo autem!
+        <p style={{ paddingTop: "10px" }}>
+          Chola: Savor the rich, flavorful chola, a hearty and spicy dish made with chickpeas simmered in a fragrant blend of spices. It’s a perfect complement to our dosas and idlis.<br />
         </p>
+        <p style={{ paddingTop: "10px" }}>
+          Idli: These soft, fluffy rice cakes are a staple of South Indian breakfasts. Steamed to perfection, our idlis are light and airy, and pair wonderfully with sambar and chutneys.<br />
+        </p>
+        <p style={{ paddingTop: "10px" }}>
+          Sambhar: Our sambhar is a classic lentil stew brimming with vegetables and infused with a blend of aromatic spices. It’s the perfect accompaniment to dosas, idlis, and rice.<br />
+        </p>
+        <p style={{ paddingTop: "10px" }}>
+          Masala Dosa: This special dosa is generously filled with a savory spiced potato mixture, making it a flavorful and satisfying choice. Crispy on the outside and soft on the inside, it’s a true South Indian favorite.<br />
+        </p>
+        <p style={{ paddingTop: "10px" }}>
+          Paneer: Enjoy our paneer dishes, featuring soft, homemade cheese cooked in rich, flavorful gravies or dry masalas. Each bite is a blend of creamy texture and bold spices.<br />
+        </p>
+
       </Box>
     </Layout>
   );

@@ -3,7 +3,7 @@ import Chola from "../images/chhola.jpg";
 import Idli from "../images/idli.jpg";
 import MasalaDosa from "../images/masala.jpg";
 import Paneer from "../images/paneer.jpg";
-import Gujrati from "../images/gujrati.jpeg";
+
 
 export const MenuList = [
   {
@@ -45,7 +45,7 @@ export const MenuList = [
     name: "Gujrati",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Gujrati,
+    image: "https://t4.ftcdn.net/jpg/08/13/33/79/240_F_813337931_PrSfwuLI6Br1OslOMoN4CDzxJe2xdDQr.jpg",
     price: 500,
   },
 ];
